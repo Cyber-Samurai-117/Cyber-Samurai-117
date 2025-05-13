@@ -1,3 +1,7 @@
+div align="center">
+  <img height="470" src="![image](https://github.com/user-attachments/assets/ff27c41b-630c-4c05-9a51-5385aecdc746)
+" />
+</div>
 <!-- Name & Animated Intro -->
 <div align="center">
   <img height="70" src="https://camo.githubusercontent.com/b676b05351a07be167a2abc0ce43a28e21c1e3b7dfaafdbfe39b11e139d454ac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f334f586335694d345679624c7a4b416f42522f67697068792e676966" alt="Wave" />
@@ -56,13 +60,5 @@
   </a>
 </div>
 
----
-
-<!-- Cool ending GIF -->
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="robot waving" />
-</div>
-
----
 
 > “Security is not a product, it's a process.” – Bruce Schneier
