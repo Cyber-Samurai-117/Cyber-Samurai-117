@@ -1,31 +1,30 @@
-<!-- Animated Cyber Intro -->
+<!-- Name & Animated Intro -->
 <div align="center">
-  <img height="470" src="https://i.pinimg.com/originals/c5/d6/8e/c5d68e3f92b74f875e9eaa71e7afaf72.gif" />
-</div>
-
-<!-- Animated Typing: Name Only -->
-<div align="center">
-  <img height="70" src="https://media.giphy.com/media/3OXc5iM4VybLzKAoBR/giphy.gif" alt="Wave" />
+  <img height="70" src="https://camo.githubusercontent.com/b676b05351a07be167a2abc0ce43a28e21c1e3b7dfaafdbfe39b11e139d454ac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f334f586335694d345679624c7a4b416f42522f67697068792e676966" alt="Wave" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Umar+Ahamed" alt="Typing Text" />
+  <img height="70" src="https://camo.githubusercontent.com/7a94504569b436498bc9a595d68ed1a06689c81a00c3bedf0db451f2e769375b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3833773853677971665966465a3549476f462f67697068792e676966" alt="Emoji" />
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Student 
-- 💻 Focus: Cybersecurity, Digital Forensics, Ethical hacking and More... 
-- ⚙️ Building skills
-- 🧠 Trainings on TryHackMe & Hack The Box
+-🎓 Student
+-💻 Focus: Cybersecurity, Digital Forensics, Ethical hacking and More...
+-⚙️ Building skills
+-🧠 Trainings on TryHackMe & Hack The Box
 
 ---
+<!-- Profile Viewer -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Cyber-Samurai-117.Cyber-Samurai-117" />
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarahamed&show_icons=true&theme=radical&hide_border=false" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarahamed&theme=radical&hide_border=false" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarahamed&layout=compact&theme=radical&hide_border=false&langs_count=5&custom_title=Most%20Used%20Language%3A%20C%23" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Samurai-117&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyber-Samurai-117&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Most Used Languages" />
 </div>
 
 ---
