@@ -1,5 +1,5 @@
 div align="center">
-  <img height="470" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FPixelArt%2Fcomments%2Fv36vvw%2Fend_of_the_day_pixel_art%2F&psig=AOvVaw3yTF1kxf7KGWTQwPUlFnvO&ust=1747223521073000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDgxvywoI0DFQAAAAAdAAAAABAy" />
+  <img height="470" src="https://pin.it/3qWeCxDc5" />
 </div>
 <!-- Name & Animated Intro -->
 <div align="center">
