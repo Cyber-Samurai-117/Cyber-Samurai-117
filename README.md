@@ -1,4 +1,4 @@
-<!-- Top Intro Image -->
+<!-- Top Cyber Intro Image -->
 <div align="center">
   <img height="470" src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" />
 </div>
@@ -17,7 +17,21 @@
 - 🎓 Student  
 - 💻 Focus: Cybersecurity, Digital Forensics, Ethical Hacking and More...  
 - ⚙️ Building skills  
-- 🧠 Training on TryHackMe & Hack The Box
+- 🧠 Training on TryHackMe & Hack The Box  
+
+---
+
+## 🚀 Languages & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</div>
 
 ---
 
@@ -51,7 +65,7 @@
 
 ---
 
-## 🧠 Platforms I Train On
+## 🧠 Platforms Training...
 
 <div align="center">
   <a href="https://tryhackme.com/p/CyberSamurai117" target="_blank">
